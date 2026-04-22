@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+firebase-admin
+mysql-connector-python
+psutil
+requests
+pandas
+scikit-learn
+joblib
